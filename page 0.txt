@@ -1,0 +1,9 @@
+1|3|4
+
+Your name is Roy. You're a swordsman leading a team of five other adventurers in search of fame, glory, and treasure!
+
+You and your team are deep inside a dark and dank dungeon, shuffling down a hallway, approaching a point where it branches to the left and right. You hear a strange growling noise from the left. You think you should send a scout to figure out who - or what - is waiting there. Which member of your team will you send?
+
+Turn to page 1 to send your sneaky thief, Haley.
+Turn to page 3 to send your cranky ranger, Belkar.
+Turn to page 4 to send your airheaded bard, Elan.

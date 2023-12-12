@@ -1,0 +1,12 @@
+7|9
+
+"We cannae just abandon Elan like tha'," Durkon tells you. "If ye choose not to look fer him, I cannae follow you any longer. I'll go look fer the lad on my own."
+
+"Yeah," Haley says. "I might be a criminal, but leaving Elan to fend for himself is just plain evil! I'll follow Durkon."
+
+"It makes no difference to me whether or not we search for the bard," Vaarsuvius says, "but Haley is my friend, and I will follow her."
+
+"You guys really care that much about that dunce? Lame. I'm sticking with the leader," Belkar says.
+
+Turn to page 9 to abandon your team and set out with Belkar.
+Turn to page 7 to reconsider and search for Elan.

@@ -1,0 +1,12 @@
+10|11
+
+After some time, you run into Elan. He doesn't look so good.
+
+"Hi, everyone. Look, I found all these free swords. They were in my spleen."
+
+"How badly are ye hurt, lad?" Durkon asks.
+
+"That depends..." Elan says. He holds up an organ. "How important is one of these?"
+
+Turn to page 10 to ask Durkon to heal Elan with a spell.
+Turn to page 11 to ask if anyone has a potion that can heal Elan.

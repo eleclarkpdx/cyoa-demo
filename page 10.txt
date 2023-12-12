@@ -1,0 +1,33 @@
+12
+
+"Fer this, I'll need to ask me dwarven god, Thor," Durkon says.
+
+Durkon closes his eyes and kneels down. "Mighty Thor, yer humble servant asks ye for aid."
+
+An automated voice answers. "Hello! And welcome to ThorPrayer. To continue in English, chant 'one' now!"
+
+Durkon looks confused. "Ummm... one!"
+
+If you know the name of the miracle you would like to request, chant 'one' now."
+
+"One!" Durkon says.
+
+"Please intone the first three letters of the name of the miracle now."
+
+Durkon ponders. "Well, I want to heal ye, Elan, so... H-E-A!"
+
+"You have selected, 'Heathen Smiting.' If this is correct, chant 'one.' If not, chant 'two.'"
+
+Durkon, shocked, chokes out a "two!"
+
+"You have selected, 'Heat Blisters of Eternal Pain.' If this is correct, chant 'one.' If not, chant 'two.'"
+
+Durkon, panicking, shouts "two! TWO!"
+
+"You have selected, 'Tumor.' To choose the type of tumor with which to smite Thor's enemies, chant 'three' now."
+
+This continues for quite some time. Eventually, Elan is healed, but Durkon looks a little sweaty.
+
+It's getting late.
+
+Turn to page 12 to rest for the night.
