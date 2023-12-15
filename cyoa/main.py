@@ -7,9 +7,9 @@ while True:
 
     # figure out what the next available pages are
     # based on what's written in the current page
-    options_as_string = file.readline().replace('\n','').split('|')
+    options_as_strings = file.readline().replace('\n','').split('|')
     options = []
-    for num in options_as_string:
+    for num in options_as_strings:
         options.append(int(num))
 
     # read the rest of the current page
