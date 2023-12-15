@@ -1,4 +1,4 @@
-These simple Python demos run on a minimal amount of code: enough that if you showed it to a 6th-grader who is totally new to programming, either a) all three could be reasonably stepped through in 10 minutes, or b) a single one could be explained in-depth over 30 minutes.
+These simple Python demos run on a minimal amount of code: enough that if you showed them to a 6th-grader who is totally new to programming, either a) all three could be reasonably stepped through in 10 minutes, or b) a single one could be explained in-depth over 30 minutes.
 
 The first is a short D&D-themed choose-your-own-adventure. It has no dependencies. Many of the jokes in the CYOA, as well as the setting, were lifted wholesale from Rich Burlew's writing. Credit goes to him for pages 2, 7, 10, and 11 in particular.
 
